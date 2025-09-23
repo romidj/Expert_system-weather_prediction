@@ -16,7 +16,6 @@ Users select observed conditions (sky, wind, temperature, humidity, pressure), a
 ## 🛠️ Tech Stack
 - **Python 3**
 - **Tkinter** (GUI)
-- **PIL (Pillow)** for image handling
 - **AIMA Python** (`aima.logic`) for knowledge base and inference
 
 ---
@@ -25,7 +24,7 @@ Users select observed conditions (sky, wind, temperature, humidity, pressure), a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather-expert-system.git
+git clone https://github.com/romidj/Expert_system-weather_prediction.git
 
 # Navigate to the project folder
 cd weather-expert-system
